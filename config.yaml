@@ -1,0 +1,74 @@
+languageCode: "pt-br"
+baseUrl: "https://vfcardoso.dev"
+title: "Vinícius Cardoso - Blog pessoal"
+paginate: 10
+# disqusShortname: "yourdiscussshortname"
+# googleAnalytics: "G-12345"
+enableRobotsTXT: true
+
+module:
+  imports:
+  - path: github.com/mitrichius/hugo-theme-anubis
+
+menu:
+  main:
+  - identifier: about
+    name: Sobre mim
+    title: Sobre mim
+    url: /about/
+    weight: 1
+
+  - identifier: "tags"
+    name: "Tags"
+    url: "/tags/"
+    weight: 2
+
+  - identifier: archive
+    name: Arquivo
+    title: Arquivo
+    url: /posts/
+    weight: 3
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+
+author:
+  name: "Vinícius Cardoso"
+
+params:
+  author: "Vinícius Cardoso"
+  email: me@vfcardoso.dev # used for microformats
+  avatar: "/images/avatar.jpg" # used for microformats
+  description: "Uma pequena coleção de ideias simples."
+  # Uncomment if you need this
+  # images:
+  #   - images/og-featured.png # relative path to "static" directory
+  customCSS:
+    - css/overrides.css # relative path to "assets" directory (don't use main.css filename)
+  # customJS:
+  #   - js/main.js # relative path to "assets" directory
+  dateFormat: "2006-01-02"
+  paginationSinglePost: true
+  style: dark-without-switcher
+  readMore: false # show read more button
+  readNextPosts: 0  # show 5 related posts, 0 by default
+  disableSummary: false
+  copyCodeButton: true # true by default
+  rssAsSocialIcon: true
+  
+  social:
+  - id: github
+    name: vfcardoso-dev
+  - id: linkedin
+    name: vfcardoso
+  - id: mastodon
+    url: "https://bolha.us/@vfcardoso"
+    icon: "mastodon"
+    rel: "me"
+  
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # enable raw HTML in Markdown
