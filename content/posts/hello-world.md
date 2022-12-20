@@ -19,7 +19,7 @@ Acontece que eu me vi em várias situações onde precisava conversar com pessoa
 
 Eu me acho uma pessoa com um bom vocabulário. Eu já li bastante, hoje não tanto, sendo este outro aspecto que pretendo mudar. Mas nesses momentos constrangedores, minha mente virava um mar vazio e branco de onde não brotava nada. 
 
-Então, depois de refletir bastante, acredito que essa dificuldade seja simplesmente falta de prática em falar/escrever. Enfileirar palavras ativamente, mesmo. Pois desde a pandemia, ou melhor, desde que me mudei de minha cidade natal pra esta em que vivo hoje, eu reduzi bastante o meu círculo social e, portanto, as pessoas com as quais converso sobre assuntos variados. Nesse sentido, acredito que acabei "enferrujando" mesmo. Os especialistas que estudam o cérebro dizem que nossas conexões neurais se fortalecem com o uso, a repetição, e commo eu não estive usando, ela acabou por minguar. 
+Então, depois de refletir bastante, acredito que essa dificuldade seja simplesmente falta de prática em falar/escrever. Enfileirar palavras ativamente, mesmo. Pois desde a pandemia, ou melhor, desde que me mudei de minha cidade natal pra esta em que vivo hoje, eu reduzi bastante o meu círculo social e, portanto, as pessoas com as quais converso sobre assuntos variados. Nesse sentido, acredito que acabei "enferrujando" mesmo. Os especialistas que estudam o cérebro dizem que nossas conexões neurais se fortalecem com o uso, a repetição, e como eu não estive usando, ela acabou por minguar. 
 
 Estranho? Pode ser. Mas resolvi tentar mudar. Pra isso vou manter esse espaço aqui, pra escrever pensamentos e ideias.
 
