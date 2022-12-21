@@ -21,7 +21,7 @@ menu:
 
   - identifier: "contact"
     name: Contato
-    name: Contato
+    title: Contato
     url: "/contact/"
     weight: 2
 
