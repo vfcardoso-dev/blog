@@ -5,6 +5,7 @@ paginate: 10
 # disqusShortname: "yourdiscussshortname"
 # googleAnalytics: "G-12345"
 enableRobotsTXT: true
+enableEmoji: true
 
 module:
   imports:
@@ -18,9 +19,10 @@ menu:
     url: /about/
     weight: 1
 
-  - identifier: "tags"
-    name: "Tags"
-    url: "/tags/"
+  - identifier: "contact"
+    name: Contato
+    name: Contato
+    url: "/contact/"
     weight: 2
 
   - identifier: archive
