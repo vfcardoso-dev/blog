@@ -65,7 +65,7 @@ params:
   - id: linkedin
     name: vfcardoso
   - id: mastodon
-    url: "https://hachyderm.io/@vfcardoso"
+    url: "https://bolha.us/@vfcardoso"
     icon: "mastodon"
     rel: "me"
   
