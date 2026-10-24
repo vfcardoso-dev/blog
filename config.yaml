@@ -28,11 +28,17 @@ menu:
     url: /posts/
     weight: 2
 
+  - identifier: projects
+    name: Projetos
+    title: Projetos
+    url: /projects/
+    weight: 3
+
   - identifier: "contact"
     name: Contato
     title: Contato
     url: "/contact/"
-    weight: 3
+    weight: 4
 
   # Fediring webring (rendered by the theme's footer menu)
   footer:
@@ -59,7 +65,9 @@ taxonomies:
   tag: "tags"
 
 params:
-  description: "Uma pequena coleção de ideias simples."
+  description: "Vinícius Cardoso, desenvolvedor de software em Macaé/RJ. Textos sobre tecnologia, reflexões e ideias simples."
+  images:
+    - images/og-default.png # default Open Graph image, relative to "static"
   mainSections:
     - posts
   author:
