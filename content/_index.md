@@ -10,7 +10,7 @@ Olá!
 
 Eu sou o Vinícius. Moro na cidade de Macaé, Rio de Janeiro, Brasil <span class="emoji">🇧🇷</span>.
 
-Atualmente trabalho como Desenvolvedor de Software Sênior na Transforma Resíduos, desde Agosto de 2026.
+Atualmente trabalho como Desenvolvedor de Software SR na Transforma Resíduos, desde 2026-08.
 
 Este site é um blog pessoal onde escrevo sobre ideias, coisas que aprendi, tecnologia, reflexões, etc. Fique à vontade para **[explorar](/posts/)** por aí.
 
