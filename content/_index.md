@@ -1,17 +1,18 @@
 ---
 title: "Sobre mim"
 date: 2022-12-17
-type: "page"
 author: "Vinícius Cardoso"
+aliases:
+  - /about/
 ---
 
 Olá! 
 
 Eu sou o Vinícius. Moro na cidade de Macaé, Rio de Janeiro, Brasil <span class="emoji">🇧🇷</span>.
 
-Atualmente trabalho como Desenvolvedor de Software Sênior na [Sapiensia Tecnologia](https://sapiensia.com) (full-time), desde Setembro de 2019.
+Atualmente trabalho como Desenvolvedor de Software Sênior na Transforma Resíduos, desde Agosto de 2026.
 
-Este site é um blog pessoal onde escrevo sobre ideias, coisas que aprendi, tecnologia, reflexões, etc. Fique à vontade para explorar por aí.
+Este site é um blog pessoal onde escrevo sobre ideias, coisas que aprendi, tecnologia, reflexões, etc. Fique à vontade para explorar o **[blog](/posts/)**.
 
 Caso deseje falar comigo, você pode **[entrar em contato](/contact)**.
 

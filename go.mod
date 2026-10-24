@@ -2,4 +2,4 @@ module github.com/vfcardoso-dev/blog
 
 go 1.19
 
-require github.com/Mitrichius/hugo-theme-anubis v0.0.0-20220725170731-d4ba47cd2196 // indirect
+require github.com/hugo-theme-anubis2/hugo-theme-anubis2 v1.9.0 // indirect
