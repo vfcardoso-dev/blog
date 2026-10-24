@@ -19,7 +19,7 @@ jobs:
     name: Build and Deploy Job
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-go@v5 # the theme is a Hugo Module, fetched with Go
+      - uses: actions/setup-go@v7 # the theme is a Hugo Module, fetched with Go
         with:
           go-version: "stable"
       - name: Setup Hugo
