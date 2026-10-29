@@ -82,6 +82,7 @@ params:
     enablecopycodebutton: true
     enablereadmorebutton: false
     enablerssicon: true
+    openinnewtab: false # markdown links open in the same tab, like the menu
     customcss:
       - css/overrides.css # relative path to "assets" directory
     socialicons:
